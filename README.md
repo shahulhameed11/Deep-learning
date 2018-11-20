@@ -1,5 +1,4 @@
 Name: Sohail Shahul Hameed
-Signzy Assignment Submission Readme file                              13/10/2018
 IDE: Spyder IDE
 ===============================================================
 How the code works:
@@ -27,9 +26,3 @@ read(input_path, output_path)
 Go to the specified output folder and view the output images. 
 
 ===============================================================
-Installation Process:
-Below Link is to install opencv:
-https://pypi.org/project/opencv-python/
---------------------
-Below Link is to install numpy:
-https://solarianprogrammer.com/2017/02/25/install-numpy-scipy-matplotlib-python-3-windows/
